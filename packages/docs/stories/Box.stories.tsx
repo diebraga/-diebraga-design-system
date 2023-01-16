@@ -4,10 +4,10 @@ import type { StoryObj, Meta } from '@storybook/react'
 import { Box, BoxProps, Text } from '@diebraga/react'
 
 export default {
-  title: 'Layout/Button',
+  title: 'Layout/Box',
   component: Box,
   args: {
-    children: <Text>test</Text>,
+    children: <Text>Box</Text>,
   },
 } as Meta
 

@@ -1,11 +1,11 @@
 # COMPONENTS
 
-- [] Text
-- [] Heading
-- [] Box
+- [X] Text
+- [X] Heading
+- [X] Box
 - [] Button
 - [] TextInput
 - [] TextArea
 - [] Checkbox
-- [] Avatar
+- [X] Avatar
 - [] Multistep
