@@ -3,9 +3,9 @@
 - [X] Text
 - [X] Heading
 - [X] Box
-- [] Button
-- [] TextInput
-- [] TextArea
+- [X] Button
+- [X] TextInput
+- [X] TextArea
 - [] Checkbox
 - [X] Avatar
 - [] Multistep
